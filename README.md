@@ -19,3 +19,13 @@ The above command returned a list of turtlesim’s executables:
 
 ![photo_2022-09-26_10-12-47](https://user-images.githubusercontent.com/90182787/192178658-75009cb7-4067-43bc-bcf0-0706e5fc5402.jpg)
 
+# Start turtlesim
+
+For starting turtlesim:
+
+`ros2 run turtlesim turtlesim_node`
+
+![photo_2022-09-26_10-12-55](https://user-images.githubusercontent.com/90182787/192179022-7fb6e95c-21fa-4120-b381-1db4aee69840.jpg)
+
+![photo_2022-09-26_10-12-50](https://user-images.githubusercontent.com/90182787/192179032-3b5e9d65-fb7c-4c83-93cf-c46735ff4df4.jpg)
+
