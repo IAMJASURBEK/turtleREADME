@@ -15,10 +15,7 @@ Installation of the package
 
 The above command returned a list of turtlesim’s executables:
 
-```turtlesim draw_square
-turtlesim mimic
-turtlesim turtle_teleop_key
-turtlesim turtlesim_node```
+
 
 ![photo_2022-09-26_10-12-47](https://user-images.githubusercontent.com/90182787/192178658-75009cb7-4067-43bc-bcf0-0706e5fc5402.jpg)
 
