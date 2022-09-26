@@ -20,4 +20,5 @@ turtlesim mimic
 turtlesim turtle_teleop_key
 turtlesim turtlesim_node```
 
-![photo_2022-09-26_10-12-47](https://user-images.githubusercontent.com/90182787/192177665-450110eb-3835-4a4e-9ea3-741b47173370.jpg)
+![photo_2022-09-26_10-12-47](https://user-images.githubusercontent.com/90182787/192178658-75009cb7-4067-43bc-bcf0-0706e5fc5402.jpg)
+
